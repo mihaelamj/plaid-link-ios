@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>041B7562-A608-412A-88EB-B4E2FFBF8ECF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>041B7562-A608-412A-88EB-B4E2FFBF8ECF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LinkDemo-Swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LinkDemo-Swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>timeStartedRecording</key>
+			<real>612996390.73094404</real>
+			<key>timeStoppedRecording</key>
+			<real>612996878.39282203</real>
+			<key>title</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>uniqueIdentifier</key>
+			<string>041B7562-A608-412A-88EB-B4E2FFBF8ECF</string>
+		</dict>
+		<key>636B4B43-7071-4526-A653-E91A5B4148C6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>636B4B43-7071-4526-A653-E91A5B4148C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LinkDemo-Swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LinkDemo-Swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>timeStartedRecording</key>
+			<real>612996878.26275003</real>
+			<key>timeStoppedRecording</key>
+			<real>612996886.34174001</real>
+			<key>title</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>uniqueIdentifier</key>
+			<string>636B4B43-7071-4526-A653-E91A5B4148C6</string>
+		</dict>
+		<key>9E1DD74A-AB70-47BC-9734-AE83F48F9E8D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9E1DD74A-AB70-47BC-9734-AE83F48F9E8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LinkDemo-Swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LinkDemo-Swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>timeStartedRecording</key>
+			<real>612996122.76639104</real>
+			<key>timeStoppedRecording</key>
+			<real>612996141.45631397</real>
+			<key>title</key>
+			<string>Run LinkDemo-Swift</string>
+			<key>uniqueIdentifier</key>
+			<string>9E1DD74A-AB70-47BC-9734-AE83F48F9E8D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

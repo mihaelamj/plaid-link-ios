@@ -1,0 +1,259 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["14LinkDemo_Swift14ViewControllerC", ""]
+- ["14LinkDemo_Swift14ViewControllerC", "presentPlaidLinkWithCustomConfiguration"]
+provides-dynamic-lookup:
+- "presentPlaidLinkWithCustomConfiguration"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "PLKConfiguration"
+- !private "PLKPlaidLinkViewController"
+- !private "StringLiteralType"
+- !private "UI_USER_INTERFACE_IDIOM"
+- "ViewController"
+depends-member:
+- !private ["s7CVarArgP", "PLKConfiguration"]
+- !private ["s7CVarArgP", "PLKPlaidLinkViewController"]
+- !private ["s7CVarArgP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["s7CVarArgP", "clientName"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "modalPresentationStyle"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "PLKConfiguration"]
+- !private ["s28CustomDebugStringConvertibleP", "PLKPlaidLinkViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["s28CustomDebugStringConvertibleP", "clientName"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "PLKConfiguration"]
+- !private ["s23CustomStringConvertibleP", "PLKPlaidLinkViewController"]
+- !private ["s23CustomStringConvertibleP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["s23CustomStringConvertibleP", "clientName"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationStyle"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["SQ", "PLKConfiguration"]
+- !private ["SQ", "PLKPlaidLinkViewController"]
+- !private ["SQ", "UI_USER_INTERFACE_IDIOM"]
+- !private ["SQ", "auth"]
+- !private ["SQ", "clientName"]
+- !private ["SQ", "formSheet"]
+- !private ["SQ", "init"]
+- !private ["SQ", "modalPresentationStyle"]
+- !private ["SQ", "pad"]
+- !private ["SQ", "present"]
+- !private ["SQ", "sandbox"]
+- !private ["s25ExpressibleByArrayLiteralP", "auth"]
+- !private ["SH", "PLKConfiguration"]
+- !private ["SH", "PLKPlaidLinkViewController"]
+- !private ["SH", "UI_USER_INTERFACE_IDIOM"]
+- !private ["SH", "clientName"]
+- !private ["SH", "formSheet"]
+- !private ["SH", "init"]
+- !private ["SH", "modalPresentationStyle"]
+- !private ["SH", "pad"]
+- !private ["SH", "present"]
+- !private ["SH", "sandbox"]
+- !private ["So8NSCodingP", "PLKConfiguration"]
+- !private ["So8NSCodingP", "PLKPlaidLinkViewController"]
+- !private ["So8NSCodingP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "modalPresentationStyle"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "PLKConfiguration"]
+- !private ["So26NSExtensionRequestHandlingP", "PLKPlaidLinkViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So8NSObjectC", "PLKConfiguration"]
+- !private ["So8NSObjectC", "PLKPlaidLinkViewController"]
+- !private ["So8NSObjectC", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So8NSObjectC", "clientName"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "modalPresentationStyle"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "presentPlaidLinkWithCustomConfiguration"]
+- !private ["So8NSObjectP", "PLKConfiguration"]
+- !private ["So8NSObjectP", "PLKPlaidLinkViewController"]
+- !private ["So8NSObjectP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So8NSObjectP", "clientName"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "modalPresentationStyle"]
+- !private ["So8NSObjectP", "present"]
+- !private ["s9OptionSetP", "auth"]
+- !private ["So16PLKConfigurationC", "clientName"]
+- !private ["So16PLKConfigurationC", "init"]
+- !private ["So14PLKEnvironmentV", "sandbox"]
+- !private ["So26PLKPlaidLinkViewControllerC", "init"]
+- !private ["So26PLKPlaidLinkViewControllerC", "modalPresentationStyle"]
+- !private ["So24PLKPlaidLinkViewDelegateP", "PLKConfiguration"]
+- !private ["So24PLKPlaidLinkViewDelegateP", "PLKPlaidLinkViewController"]
+- !private ["So24PLKPlaidLinkViewDelegateP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So24PLKPlaidLinkViewDelegateP", "present"]
+- !private ["So10PLKProductV", "auth"]
+- !private ["SY", "auth"]
+- !private ["SY", "formSheet"]
+- !private ["SY", "pad"]
+- !private ["SY", "sandbox"]
+- !private ["s10SetAlgebraP", "auth"]
+- !private ["So21UIAppearanceContainerP", "PLKConfiguration"]
+- !private ["So21UIAppearanceContainerP", "PLKPlaidLinkViewController"]
+- !private ["So21UIAppearanceContainerP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationStyle"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So18UIContentContainerP", "PLKConfiguration"]
+- !private ["So18UIContentContainerP", "PLKPlaidLinkViewController"]
+- !private ["So18UIContentContainerP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "modalPresentationStyle"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIFocusEnvironmentP", "PLKConfiguration"]
+- !private ["So18UIFocusEnvironmentP", "PLKPlaidLinkViewController"]
+- !private ["So18UIFocusEnvironmentP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So24UIModalPresentationStyleV", "formSheet"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "modalPresentationStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "PLKConfiguration"]
+- !private ["So30UIPasteConfigurationSupportingP", "PLKPlaidLinkViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So11UIResponderC", "PLKConfiguration"]
+- !private ["So11UIResponderC", "PLKPlaidLinkViewController"]
+- !private ["So11UIResponderC", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "modalPresentationStyle"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "presentPlaidLinkWithCustomConfiguration"]
+- !private ["So30UIResponderStandardEditActionsP", "PLKConfiguration"]
+- !private ["So30UIResponderStandardEditActionsP", "PLKPlaidLinkViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So16UIStateRestoringP", "PLKConfiguration"]
+- !private ["So16UIStateRestoringP", "PLKPlaidLinkViewController"]
+- !private ["So16UIStateRestoringP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "modalPresentationStyle"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So18UITraitEnvironmentP", "PLKConfiguration"]
+- !private ["So18UITraitEnvironmentP", "PLKPlaidLinkViewController"]
+- !private ["So18UITraitEnvironmentP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So23UIUserActivityRestoringP", "PLKConfiguration"]
+- !private ["So23UIUserActivityRestoringP", "PLKPlaidLinkViewController"]
+- !private ["So23UIUserActivityRestoringP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationStyle"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So20UIUserInterfaceIdiomV", "pad"]
+- !private ["So16UIViewControllerC", "PLKConfiguration"]
+- !private ["So16UIViewControllerC", "PLKPlaidLinkViewController"]
+- !private ["So16UIViewControllerC", "UI_USER_INTERFACE_IDIOM"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "modalPresentationStyle"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "presentPlaidLinkWithCustomConfiguration"]
+- !private ["14LinkDemo_Swift14ViewControllerC", "PLKConfiguration"]
+- !private ["14LinkDemo_Swift14ViewControllerC", "PLKPlaidLinkViewController"]
+- !private ["14LinkDemo_Swift14ViewControllerC", "UI_USER_INTERFACE_IDIOM"]
+- !private ["14LinkDemo_Swift14ViewControllerC", "deinit"]
+- !private ["14LinkDemo_Swift14ViewControllerC", "present"]
+- ["14LinkDemo_Swift14ViewControllerC", "presentPlaidLinkWithCustomConfiguration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PLKConfiguration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PLKPlaidLinkViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clientName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PLKConfiguration"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PLKPlaidLinkViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UI_USER_INTERFACE_IDIOM"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clientName"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "modalPresentationStyle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+depends-nominal:
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "So16PLKConfigurationC"
+- !private "So14PLKEnvironmentV"
+- !private "So26PLKPlaidLinkViewControllerC"
+- !private "So24PLKPlaidLinkViewDelegateP"
+- !private "So10PLKProductV"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So24UIModalPresentationStyleV"
+- !private "So22UINavigationControllerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So20UIUserInterfaceIdiomV"
+- "So16UIViewControllerC"
+- "14LinkDemo_Swift14ViewControllerC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Headers/PLKPlaidLink.h"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Headers/PLKConfiguration.h"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Headers/PLKPlaidLinkViewController.h"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Headers/PLKConstants.h"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Headers/LinkKit.h"
+- "/Users/mmj/Developer/personal/plaid-link-ios/LinkKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2a84fb3b2a86cd2658a4f0032fe3dd56"

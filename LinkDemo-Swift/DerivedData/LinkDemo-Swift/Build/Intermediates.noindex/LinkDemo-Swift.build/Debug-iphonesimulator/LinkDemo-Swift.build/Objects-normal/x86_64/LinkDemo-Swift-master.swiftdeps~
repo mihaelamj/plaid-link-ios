@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "85a17efad34555d23b3a2b0e4d02d6ea"
+build_time: [1591303313, 849170000]
+inputs:
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+SharedConfiguration.swift": [1591303313, 694964170]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+PLKPlaidLinkViewDelegate.swift": [1591303313, 716078604]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+PaymentInitiation.swift": [1591303313, 656016086]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController.swift": [1591303313, 725925101]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/AppDelegate+OAuthSupport.swift": [1591300496, 635602289]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+CustomConfiguration.swift": [1591303313, 704608319]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+OAuthSupport.swift": [1591303313, 664689232]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+UpdateMode.swift": [1591303313, 685026417]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/AppDelegate.swift": [1591300496, 635896666]
+  "/Users/mmj/Developer/personal/plaid-link-ios/LinkDemo-Swift/LinkDemo-Swift/ViewController+ItemAddToken.swift": [1591303313, 673048292]
